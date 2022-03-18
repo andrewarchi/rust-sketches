@@ -1,0 +1,8 @@
+[package]
+name = "gap-vec"
+version = "0.1.0"
+authors = ["Andrew Archibald <andrew@aarchibald.com>"]
+description = "Random access container with constant-time indexed removal"
+edition = "2021"
+
+[dependencies]
